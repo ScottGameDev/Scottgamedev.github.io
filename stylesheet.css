@@ -4,5 +4,5 @@
     height: 100vh;
 }
 .animation-area {
-    background: repeating-linear-gradient( 45deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 10px, rgba(0, 0, 0, 0.3) 10px, rgba(0, 0, 0, 0.3) 20px ),linear-gradient(to left, #ff2b32, #f75257)
+    background: repeating-linear-gradient( 45deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 10px, rgba(0, 0, 0, 0.3) 30px, rgba(0, 0, 0, 0.3) 40px ),linear-gradient(to left, #ff2b32, #f75257)
 }
