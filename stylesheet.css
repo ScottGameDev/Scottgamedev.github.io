@@ -4,5 +4,15 @@
     height: 100vh;
 }
 .animation-area {
-    background: repeating-linear-gradient( 45deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 10px, rgba(0, 0, 0, 0.3) 30px, rgba(0, 0, 0, 0.3) 40px ),linear-gradient(to left, #ff2b32, #f75257)
+    background: repeating-linear-gradient( 45deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 10px, rgba(0, 0, 0, 0.3) 30px, rgba(0, 0, 0, 0.3) 40px ),linear-gradient(to left, #ff2b32, #ff666b)
+}
+p {
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
 }
